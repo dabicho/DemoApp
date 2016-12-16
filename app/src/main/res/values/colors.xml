@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ferrariRedColor">#FF2800</color>
+
+    <color name="colorClearBlue">#22B7D1</color>
+    <color name="colorClearGreen">#2BCF7D</color>
+    <color name="colorDarkGreen">#177871</color>
+    <color name="colorYellow">#F0B908</color>
+    <color name="colorOrange">#D55908</color>
+    <color name="colorPastelViolet">#c48fe0</color>
+    <color name="colorLightOrange">#ffcc56</color>
+    <color name="colorWhite">#ffffff</color>
+
+</resources>
